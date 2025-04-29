@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = ctb
+  speed = 1.0a
+  fov = 85.0
+  angle = 15.0
+  start_rotation = 0
+}
